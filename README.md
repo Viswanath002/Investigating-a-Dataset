@@ -1,0 +1,2 @@
+# Investigating-a-Dataset
+Introduction This dataset collects information from 100k medical appointments in Brazil and is focused on the question of whether or not the patients show up for the appointment based on characteristic of patient included in each row.  'Scheduled Day' tells us on which day patient set their appointment  'Neighborhood' tells us about the location of the hospital 'Scholarship' tells us whether the patient is enrolled in the welfare program
